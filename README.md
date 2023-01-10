@@ -1,3 +1,5 @@
+# Netflix-Clone
+<hr>
 <p align="center">
-  # Netflix-Clone
+  
 </p>
