@@ -8,5 +8,5 @@
 - TMDB
 
 ### :technologist: Autor:
-- <a href="https://github.com/PauloMoreiraa" target="_blank">Paulo Moreira</a>
+- <a href="https://github.com/PauloMoreiraa">Paulo Moreira</a>
 
